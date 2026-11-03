@@ -1,0 +1,4 @@
+demucs==4.0.1
+numpy<2
+torch==2.5.1
+torchaudio==2.5.1
