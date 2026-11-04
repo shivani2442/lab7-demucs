@@ -1,4 +1,6 @@
 # lab7-music-separation-kubernetes
+
+GKE deployment, verification, and cleanup: [gke/README.md](gke/README.md).
 ![separation](images/music_separation.png)
 Music-Separation-as-a-service (MSaaS)
 ## Overview
